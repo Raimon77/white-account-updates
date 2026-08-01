@@ -1,0 +1,19 @@
+{
+  "version": "0.4.13",
+  "notes": "Voir les nouveautés dans cette mise à jour.",
+  "pub_date": "2026-08-01T14:16:03.487Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUMwYVlqdDNtRTVreWhKNFgvbkdvVWNMUFdHanVIV0NZSVJKRDUzdkpObFVZVEtFdE1ENzEzUEpVemsxNThha3UvZkU4bjBDVEpiRVlGNU1VZUpQVmhIYlF2U0tRUGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTkzNzYwCWZpbGU6V2hpdGUgQWNjb3VudF8wLjQuMTNfeDY0X2VuLVVTLm1zaQpCbXlMbjRkbUF0Q3NZREJSVXVIcXg1ZmJ1UE9TZ0Y1NlJMZ1dBUnhJZ0REQ2FnVzdHUmVHZzgxdVJ5K1JGTDg4VWxGNnV3NmNpSzhKY1JiT2VzOHBDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/Raimon77/white-account-updates/main/files/0.4.13/White.Account_0.4.13_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUMwYVlqdDNtRTVreWhKNFgvbkdvVWNMUFdHanVIV0NZSVJKRDUzdkpObFVZVEtFdE1ENzEzUEpVemsxNThha3UvZkU4bjBDVEpiRVlGNU1VZUpQVmhIYlF2U0tRUGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTkzNzYwCWZpbGU6V2hpdGUgQWNjb3VudF8wLjQuMTNfeDY0X2VuLVVTLm1zaQpCbXlMbjRkbUF0Q3NZREJSVXVIcXg1ZmJ1UE9TZ0Y1NlJMZ1dBUnhJZ0REQ2FnVzdHUmVHZzgxdVJ5K1JGTDg4VWxGNnV3NmNpSzhKY1JiT2VzOHBDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/Raimon77/white-account-updates/main/files/0.4.13/White.Account_0.4.13_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUMwYVlqdDNtRTlhMGt1N0Q2TXcwQ04rajdKbjluNjBlMmRhQXRkcmJiZEVUNldYUTl6d2dDREZMaTNMbEtxcDYzMEt2dXlCVENORTRSVnpCc1k1aVJCT3BzbGltYVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTkzNzYwCWZpbGU6V2hpdGUgQWNjb3VudF8wLjQuMTNfeDY0LXNldHVwLmV4ZQo2RUlEcGdzUit4U0VVSXprRDZJSE5yUlFrSUpVVmlMNXp4WFRWV3RzUUpBUGhIeFBLTEl3UitmdmtLN2lCRHJkVXNxWkNtbDdpWlhucndteUlURDdEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/Raimon77/white-account-updates/main/files/0.4.13/White.Account_0.4.13_x64-setup.exe"
+    }
+  }
+}
