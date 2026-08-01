@@ -5,15 +5,15 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUMwYVlqdDNtRTFpU3FJY2E2MGV5OU96NW5QWnQyaWZYbDcvR1RXUGFpWmdZSE95QTVvYmdwM2lPR0FGM2hmMGU1SUgwbitCajlKdlhWVHVyS0R5dnV1eEpCUEJuY1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTk3NTI3CWZpbGU6V2hpdGUgQWNjb3VudF8wLjQuMTRfeDY0X2VuLVVTLm1zaQpsWmorVmJkRTQ1WFFpOUtQL2c2NE5WRTllS0VEQ05NeU1FdEF5ZXBqYnJJY3A3NklzQk9BKzlPUkFaMExwbkdJaVBBbzgyUmF5bEdBYlhMR2hqWkNEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/Raimon77/white-account-updates/main/files/0.4.14/White.Account_0.4.14_x64_en-US.msi"
+      "url": "https://github.com/Raimon77/white-account-frontend/releases/download/app-v0.4.14/White.Account_0.4.14_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUMwYVlqdDNtRTFpU3FJY2E2MGV5OU96NW5QWnQyaWZYbDcvR1RXUGFpWmdZSE95QTVvYmdwM2lPR0FGM2hmMGU1SUgwbitCajlKdlhWVHVyS0R5dnV1eEpCUEJuY1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTk3NTI3CWZpbGU6V2hpdGUgQWNjb3VudF8wLjQuMTRfeDY0X2VuLVVTLm1zaQpsWmorVmJkRTQ1WFFpOUtQL2c2NE5WRTllS0VEQ05NeU1FdEF5ZXBqYnJJY3A3NklzQk9BKzlPUkFaMExwbkdJaVBBbzgyUmF5bEdBYlhMR2hqWkNEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/Raimon77/white-account-updates/main/files/0.4.14/White.Account_0.4.14_x64_en-US.msi"
+      "url": "https://github.com/Raimon77/white-account-frontend/releases/download/app-v0.4.14/White.Account_0.4.14_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWUMwYVlqdDNtRXg0RlNiUDRybmZKWmx4YmdLeUFaQytJWGdzc0tab05MY3pjYkhKTkpRQkVsNGRiMW1yTkN0eVg2cmczN3kwWU4rZHdGRCthYXlNSW1rMzVUVkZHbEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTk3NTI3CWZpbGU6V2hpdGUgQWNjb3VudF8wLjQuMTRfeDY0LXNldHVwLmV4ZQo0bjR2RDJlcU12TzFadGlMZGlhKzNtekJ3VU9JVE05STZvc3pqUHI3WWVUTUYrYmZ4SXB5TWo0dGtyek4rZVU3YUVFa2V3cXNqVnF1bWx5M1MxR0VEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/Raimon77/white-account-updates/main/files/0.4.14/White.Account_0.4.14_x64-setup.exe"
+      "url": "https://github.com/Raimon77/white-account-frontend/releases/download/app-v0.4.14/White.Account_0.4.14_x64-setup.exe"
     }
   }
 }
